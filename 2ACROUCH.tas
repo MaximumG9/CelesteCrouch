@@ -1,4 +1,4 @@
-RecordCount: 1212
+RecordCount: 1396
 console load 2
 
 
@@ -507,14 +507,13 @@ console load 2
    3,R,D,J
   17,R,D,X
   10,R,D,J
-   3,R,D,Z,X
+  39,R,D,X
    3,R,D,J
    2,R,D
 
 #room #11
 
   40,D
-
    9,R,D
   13,D,J
   12,R,D,K,G
@@ -529,16 +528,128 @@ console load 2
    1,R,D
    1,R,D,K
   24,R,D,X
-***S
   20,R,D,C
    4,R,D,J
   10,R,D,K
   10,R,D,X
    8,R,D,J
 
-#room #12
-***
+#room #12b
+
   40,D
+  35,R,D
+  12,R,D,J,G
+  12,R,D,K,G
+  18,R,D,X
+   4,R,D,J
+   2,R,D
+  13,R,D,K
+  15,R,D,J,G
+  18,R,D,X
+   4,R,D,J
+   2,R,D
+  16,R,D,K
+   8,R,D,J,G
+  18,R,D,X
+   4,R,D,J
+   2,R,D
+  13,R,D,K
+  10,R,D,J,G
+  18,R,D,X
+   4,R,D,J
+   1,R,D
+  15,R,D,K
+  18,R,D,X
+   4,R,D,J
+   2,R,D
+   4,R,D,K
+   8,R,D,X
+   8,R,D,J
 
+#room #12
 
+  40,D
+  19,R,D,K
+  11,R,D,J
+  12,R,D,K,G
+  20,R,D,J,G
+  37,R,D,X
+  35,R,D,C
+  15,R,D,J
+  10,R,D,X
+  13,R,D,J
+   3,R,D,K,G
+  13,R,D,X
+
+#room #13
+
+  40,D
+   1,R,D,J
+  12,R,D,X
+   1,R,D,J,G
+   1,R,D,K,G
+   1,R,D,J,G
+   1,R,D,K,G
+   1,R,D,J,G
+   4,R,D,K,G
+   4,R,D,J,G
+  10,R,D
+   3,R,D,X
+  11,R,D,J
+   5,D,S
+   5,D,J,S
+
+#room #end_0
+
+ 203,D
+  15,R,D,X
+   1,R,D,J
+  10,R,D,X
+
+#room #end_1
+
+  40,D
+   4,R,D,X
+   1,R,D,J
+  13,R,D,X
+   2,R,D,J
+***S
+  10,R,D
+  14,R,D,X
+   1,R,D,J
+   9,R,D,X
+   2,R,D,J
+   1,R,D,K,G
+   1,R,D,J,G
+  11,R,D,K,G
+  13,R,D
+
+#room #end_2
+  40,D
+  10,R,D,X
+  15,R,D,J
+   7,L,D,X
+   3,R,D,J
+   1,R,D,J,G
+  15,R,D,K,G
+  12,R,D,G
+  25,R,D,J,G
+***
+  10,L,D,X
+  13,R,D,J
+  17,R,D,X
+
+#room #end_3
+
+  40,D
+  20,R,D,J
+  14,R,D,X
+   5,R,D,J
+  22,R,D,K,G
+  10,R,D,X
+  21,R,D,J
+
+#room #end_4
+
+  40,D
 9999,D
