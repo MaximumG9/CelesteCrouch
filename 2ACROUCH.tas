@@ -1,4 +1,4 @@
-RecordCount: 1396
+RecordCount: 1642
 console load 2
 
 
@@ -599,57 +599,101 @@ console load 2
    5,D,S
    5,D,J,S
 
+#Awake 
+
 #room #end_0
 
- 203,D
-  15,R,D,X
-   1,R,D,J
-  10,R,D,X
-
+ 204,D
+   6,R,D,J,X
+   9,R,D
+   8,R,D,J,X
 #room #end_1
 
   40,D
-   4,R,D,X
-   1,R,D,J
-  13,R,D,X
-   2,R,D,J
-***S
-  10,R,D
+  10,R,D,J
   14,R,D,X
    1,R,D,J
-   9,R,D,X
    2,R,D,J
-   1,R,D,K,G
-   1,R,D,J,G
-  11,R,D,K,G
+   8,R,D
+   4,R,D,X
+   4,R,D,J,G
   13,R,D
+   4,R,D,J
+   5,R,D,X
+   2,R,D,J,G
+  14,R,D
+   3,R,D,J
 
 #room #end_2
-  40,D
-  10,R,D,X
-  15,R,D,J
-   7,L,D,X
-   3,R,D,J
-   1,R,D,J,G
-  15,R,D,K,G
-  12,R,D,G
-  25,R,D,J,G
-***
-  10,L,D,X
-  13,R,D,J
-  17,R,D,X
 
+  40,D
+   7,R,D,J
+  10,R,D
+  10,R,D,J,G
+  15,R,D,X
+   5,R,D,J
+  15,R,D,X
 #room #end_3
 
   40,D
-  20,R,D,J
-  14,R,D,X
-   5,R,D,J
-  22,R,D,K,G
-  10,R,D,X
-  21,R,D,J
+  11,R,D,J
+  11,R,D,X
+   3,R,D,J,G
+   3,R,D
+   7,R,D,K,G
+   3,R,D,J,G
+  20,R,D
 
 #room #end_4
 
   40,D
+   3,R,D,J
+  12,R,D,K,G
+   4,R,D,J,G
+   3,R,D
+  20,R,D,X
+   8,R,D,J
+   7,R,D,X
+   8,R,D,J,G
+
+#room #end_5
+
+  40,D
+  13,R,D,J
+  11,R,D,X
+   4,R,D,J,G
+   8,R,D
+  11,R,D,J
+  16,R,D,X
+  11,R,D,J
+   8,R,D,X
+  12,R,D,J,G
+
+#room #end_6
+
+  40,D
+***S
+  25,R,D,J
+  13,R,D,K
+   2,R,D,J,G
+   5,R,D
+   8,R,D,J,G
+  10,R,D
+   9,L,D,X
+   2,R,D,J
+  29,R,D,X
+   3,R,D,J
+  12,R,D,K,G
+   5,R,D,X
+  10,R,D,J,G
+
+#room #end_7
+
+  40,D
+  17,R,D,J
+   5,R,D,X
+  15,R,D,J,G
+   5,D,S
+   1,D,J
+#Chapter complete
 9999,D
