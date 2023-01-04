@@ -1,6 +1,112 @@
-RecordCount: 1
-console load 2
+RecordCount: 130
+console load 3
 
-# room
-  191,D
+#room s0
+  62,D
+  14,R,D,X
+   1,R,D,J
+  14,R,D,X
+   1,R,D,J
+  14,R,D,X
+   1,R,D,J
+  14,R,D,X
+   1,R,D,J
+  12,R,D,X
+
+#room s1
+
+  40,D
+   2,R,D,X
+   1,R,D,J
+  14,R,D,X
+   1,R,D,J
+  14,R,D,X
+   1,R,D,J
+  14,R,D,X
+   4,R,D
+  14,R,D,X
+   1,R,D,J
+  14,R,D,X
+   1,R,D,J
+  12,R,D,X
+
+#room s2
+
+  40,D
+   2,R,D,X
+   1,R,D,J
+  14,R,D,X
+   1,R,D,J
+  14,R,D,X
+   1,R,D,J
+  10,R,D,X
+  18,R,D,J
+   7,R,D,X
+  21,R,D,J,G
+  12,R,D,K,G
+   5,R,D,J,G
+   8,R,D
+   9,D,J
+   4,R,D,J
+   5,R,D,X
+   3,R,D,J,G
+  14,R,D
+  14,R,D,X
+   1,R,D,J
+  12,R,D,X
+
+#room s3
+
+  40,D
+   2,R,D,X
+   1,R,D,J
+  14,R,D,X
+   1,R,D,J
+  14,R,D,X
+   8,R,D,J
+   5,R,D,X
+   4,R,D,J,G
+   8,R,D
+   7,R,D,J
+   5,R,D,K,G
+  11,L,D,J
+  13,R,D,K,G
+  10,R,D,X
+  13,L,D,J
+  12,L,D,K,G
+   1,D,J
+  12,L,D,J
+   9,L,D,X
+  48,L,D,J,G
+  12,L,D,K,G
+  17,L,D,J,G
+  25,L,D
+  29,R,D
+  10,R,D,X
+  21,R,D,J
+  15,R,D,K,G
+Repeat, 30
+   1,R,D
+   1,D
+   1,L,D
+   1,D
+EndRepeat
+***S
+  10,L,D,X
+  10,R,D,J
+  10,R,D,X
+   7,R,D,J
+
+#room 0x-a
+
+  40,D
+***
+  12,R,D,J
+  12,R,D,K,G
+  15,R,D
+  11,L,D
+   2,D,X
+   5,D,S
+   5,D,J
+9999,D
   
