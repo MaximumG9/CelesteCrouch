@@ -3,10 +3,9 @@ console load 2
 
 
 #room #start
- 191,D
+  191,D
   10,R,D,X
   11,R,D,J
-
 
 #room #00
 
@@ -19,12 +18,10 @@ console load 2
   11,R,D,X
    5,R,D,J
 
-
 #room #01
 
   40,D
-
-   9,R,D
+  9,R,D
   27,R,D,J
   20,L,D,X
 
@@ -35,8 +32,8 @@ console load 2
   38,R,D
   10,R,D,X
   24,R,D,J
-   1,R,D
-   8,R,D,J
+  1,R,D
+  8,R,D,J
   10,R,D,X
   37,R,D
   14,R,D,J
@@ -48,7 +45,7 @@ console load 2
 
   40,R,D
   12,L,D
-   8,D
+  8,D
   11,R,D,X
   14,R,D,J
    4,R,D
