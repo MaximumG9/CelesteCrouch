@@ -1,36 +1,39 @@
 
-Console load 1
-#room #00
+console load 1
+   1
+
+#Start
   88,D
-   5,D,J
-  10,R,D
-   4,D
-  33,R,D,J
-   1,D
-  30,R,D,J
-   9,R,D,G
-  10,R,D,J,G
-   5,D
-  10,R,D,J,G
-   5,D
-  10,R,D,J,G
-  10,D
-  10,R,D,J
-   5,L,D,X
-   6,D
-  10,R,D,J
-  13,D,G
+
+#lvl_1
+
+  10,L,D,X
+   1,R,D,J
+   1,D,J
+  11,R,D,J
+   1,R,D,K,G
+   1,R,D
   15,R,D,J,G
-   6,R,D
-  12,R,D,J
-  10,R,D
-  10,R,D,J
-  10,D,J
+  11,R,D,K,G
+   7,R,D
+   5,L,D,X
+   1,R,D,J
+   7,R,D
+  11,R,D,J
+   2,D,J
+  12,D,K,G
+  11,R,D,J,G
+   6,R,D,K,G
+   1,D,J
+  40,D
 
-
-#room #01
-
-  74,R,D
+#lvl_2
+***S
+   2,R,D
+   1,R,D,J,G
+   8,L,J
+  10,R,D,X
+  15,R,D,J
   12,R,D,J
    6,R,D,X,G
   16,R,D,J,G
@@ -54,7 +57,7 @@ Console load 1
   12,L,D,J
 
 
-#room #02
+#lvl_3
 
   28,R,D,J
   20,L,D,J
@@ -81,7 +84,7 @@ Console load 1
    2,R,D
   17,D,J,G
 
-#room #03
+#lvl_4
 
 
   28,D
@@ -103,7 +106,7 @@ Console load 1
    2,L,D
   17,D,J,G
 
-#room #04
+#lvl_3b
 
   33,D
    5,R,D,J
@@ -133,7 +136,7 @@ Console load 1
    4,D
   20,D,J,G
 
-#room #05
+#lvl_5
   27,D
   27,R,D,J
   10,D
@@ -157,7 +160,7 @@ Console load 1
    1,D
    8,R,D,J
 
-#room #06 
+#lvl_6
   38,R,D
   20,D
   15,R,D
@@ -197,7 +200,7 @@ Console load 1
   54,R,D
 
 
-#room #07
+#lvl_6a
    1,R,D,J
   14,R,D
    1,R,D,J
@@ -227,7 +230,7 @@ Console load 1
   33,R,D,J
 
 
-#room #08
+#lvl_6b
   34,R,D
   30,R,D,J
   26,D
@@ -246,7 +249,7 @@ Console load 1
   30,R,D,J
 
 
-#room #09
+#lvl_6c
 
   40,R,D,G
   15,R,D,J,G
@@ -271,7 +274,7 @@ Console load 1
    1,R,D
 
 
-#room #10
+#lvl_7
 
    8,R,D,J
    1,R,D
@@ -306,7 +309,7 @@ Console load 1
    2,L,D,J
 
 
-#room #11
+#lvl_8
 
   40,D
   15,L,D,J
@@ -348,8 +351,7 @@ Console load 1
    1,R,D,J,G
   60,R,D,J
 
-
-#room #12
+#lvl_8b
 
    9,R,D
   10,R,D,J
@@ -385,7 +387,7 @@ Console load 1
   11,R,D,J
 
 
-#room #13
+#lvl_9
 
   45,R,D
   10,L,D,J
@@ -407,7 +409,7 @@ Console load 1
   21,R,D,X
 
 
-#room #14
+#lvl_9b
 
   46,D
   13,R,D,J
@@ -436,7 +438,7 @@ Console load 1
    3,L,D,J
 
 
-#room #15
+#lvl_10a
 
   58,R,D,J
    8,R,D,X
@@ -477,7 +479,7 @@ Console load 1
    1,R,D
   12,L,D,J
 
-#room #16
+#lvl_11
 
   66,L,D,G
    1,L,D,J,G
@@ -510,7 +512,7 @@ Console load 1
    1,R,D
    7,L,D,J
 
-#room #17
+#lvl_12
 
   46,L,D,J
    1,L,D
@@ -557,7 +559,7 @@ Console load 1
   44,R,D
   
 
-#room #18
+#lvl_12a
 
    
   18,D
@@ -612,7 +614,7 @@ Console load 1
   12,R,D,J
 
 
-#room #19
+#lvl_end
 
   67,R,D
    7,R,D,J
@@ -620,13 +622,11 @@ Console load 1
   23,R,D,J
    7,R,D,X
   10,R,D,J
-
-
-#Cutscense Skip??
-
   50,D
    3,D,S
    1,D,J
  120,D
-Exitgame
+
+ChapterTime: 1:52.965(6645)
+
 
