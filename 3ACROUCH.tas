@@ -1,4 +1,4 @@
-RecordCount: 130
+RecordCount: 192
 console load 3
 
 #room s0
@@ -91,7 +91,6 @@ Repeat, 30
    1,L,D
    1,D
 EndRepeat
-***S
   10,L,D,X
   10,R,D,J
   10,R,D,X
@@ -100,13 +99,44 @@ EndRepeat
 #room 0x-a
 
   40,D
-***
   12,R,D,J
   12,R,D,K,G
   15,R,D
   11,L,D
    2,D,X
    5,D,S
-   5,D,J
-9999,D
+  35,D,J
+  14,R,D,X
+   1,R,D,J
+  14,R,D,X
+   1,R,D,J
+   5,R,D,X
+   7,R,D,J
+
+#room 00-a
+
+  40,D
+   9,R,D,J
+   3,R,D,K,G
+  13,R,D,J,X
+   1,R,D,K,G
+   6,R,D,J,G
+   9,R,D
+  17,R,D,J,X
+   3,R,D
+   2,R,D,K,G
+   1,R,D
+  10,D
+  10,R,D,X
+   5,R,D,J
+  18,R,D,X
+  22,R,D,J
+  20,R,D,X
+  13,R,D,J
+  15,R,D,X
+   3,R,D,J
+
+#room 02-a
+
+  40,D
   
